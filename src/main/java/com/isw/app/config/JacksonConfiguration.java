@@ -27,6 +27,7 @@ public class JacksonConfiguration {
 
     /*
      * Support for Hibernate types in Jackson.
+     * hola
      */
     @Bean
     public Hibernate5Module hibernate5Module() {

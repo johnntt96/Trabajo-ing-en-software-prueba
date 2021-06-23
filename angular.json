@@ -95,6 +95,7 @@
   },
   "defaultProject": "iswapp",
   "cli": {
+    "analytics": false,
     "packageManager": "npm"
   }
 }
